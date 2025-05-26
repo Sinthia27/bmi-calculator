@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a43e9a-eae8-404b-bad0-4282c2373dfc" name="Changes" comment="Slot Machine">
-      <change afterPath="$PROJECT_DIR$/bday_massages_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bday_messages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bday_messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solar_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_gif.py..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +59,13 @@
     "Python.Word Scramble Game.executor": "Run",
     "Python.bday_massages_main.executor": "Run",
     "Python.bday_messages.py..executor": "Run",
+    "Python.dk.executor": "Run",
     "Python.drive_thru.executor": "Run",
     "Python.main.executor": "Run",
     "Python.pokedex.executor": "Run",
     "Python.slot_machince.executor": "Run",
     "Python.solar_system.executor": "Run",
+    "Python.wiki.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/sinthia/PycharmProjects/Learning",
@@ -73,7 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,7 +97,8 @@
       <workItem from="1745777426979" duration="44000" />
       <workItem from="1745777576981" duration="19782000" />
       <workItem from="1747092513302" duration="2568000" />
-      <workItem from="1747424339804" duration="32177000" />
+      <workItem from="1747424339804" duration="34162000" />
+      <workItem from="1748215872171" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="Sorting Hat">
       <option name="closed" value="true" />
@@ -186,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747874864948</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Slot Machine">
+      <option name="closed" value="true" />
+      <created>1748213877788</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748213877788</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,9 +209,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Slot Machine" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Learning$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1747424718500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning$For_loop_practice.coverage" NAME="For loop practice Coverage Results" MODIFIED="1747847798191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$bday_massages_main.coverage" NAME="bday_massages_main Coverage Results" MODIFIED="1747935941206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$For_loop_practice.coverage" NAME="For loop practice Coverage Results" MODIFIED="1747847798191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1747424718500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1748216612984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$Rock_Papers_Scissors.coverage" NAME="Rock Papers Scissors Coverage Results" MODIFIED="1747586392763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$bday_messages_py_.coverage" NAME="bday_messages.py. Coverage Results" MODIFIED="1747935212751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$Rock_Papers_Scissors___Improved_Version__.coverage" NAME="Rock Papers Scissors ( Improved Version ) Coverage Results" MODIFIED="1747588738190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -216,5 +227,6 @@
     <SUITE FILE_PATH="coverage/Learning$Bank_Account.coverage" NAME="Bank Account Coverage Results" MODIFIED="1747869773309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BMI_Calculator$Sum_until_zero__while_loops_.coverage" NAME="Sum until zero (while loops) Coverage Results" MODIFIED="1746106095786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$solar_system.coverage" NAME="solar_system Coverage Results" MODIFIED="1747934840539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$dk.coverage" NAME="dk Coverage Results" MODIFIED="1748214948237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
