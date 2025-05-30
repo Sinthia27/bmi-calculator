@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a43e9a-eae8-404b-bad0-4282c2373dfc" name="Changes" comment="Slot Machine">
-      <change afterPath="$PROJECT_DIR$/create_gif.py..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GIF/Raeliana_F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GIF/heh_gif.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_gif.py..py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
     &quot;accountId&quot;: &quot;d00e9da6-7104-49f2-9ab6-f12da0a47c8c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,39 +49,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.99 bottles ( string interpolation range ).executor": "Run",
-    "Python.Bank Account.executor": "Run",
-    "Python.Calculator.executor": "Run",
-    "Python.For loop practice.executor": "Run",
-    "Python.Password (while loop).executor": "Run",
-    "Python.Rock Papers Scissors ( Improved Version ).executor": "Run",
-    "Python.Rock Papers Scissors.executor": "Run",
-    "Python.Sorting Hat.executor": "Run",
-    "Python.Sum until zero (while loops).executor": "Run",
-    "Python.Word Scramble Game.executor": "Run",
-    "Python.bday_massages_main.executor": "Run",
-    "Python.bday_messages.py..executor": "Run",
-    "Python.dk.executor": "Run",
-    "Python.drive_thru.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pokedex.executor": "Run",
-    "Python.slot_machince.executor": "Run",
-    "Python.solar_system.executor": "Run",
-    "Python.wiki.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sinthia/PycharmProjects/Learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.99 bottles ( string interpolation range ).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bank Account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password (while loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Raeliana_F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rock Papers Scissors ( Improved Version ).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rock Papers Scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sorting Hat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum until zero (while loops).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Word Scramble Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bday_massages_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bday_messages.py..executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_gif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drive_thru.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pokedex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slot_machince.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solar_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wiki.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sinthia/PycharmProjects/Learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +104,8 @@
       <workItem from="1745777576981" duration="19782000" />
       <workItem from="1747092513302" duration="2568000" />
       <workItem from="1747424339804" duration="34162000" />
-      <workItem from="1748215872171" duration="1780000" />
+      <workItem from="1748215872171" duration="8110000" />
+      <workItem from="1748561285277" duration="3768000" />
     </task>
     <task id="LOCAL-00001" summary="Sorting Hat">
       <option name="closed" value="true" />
@@ -196,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748213877788</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Slot Machine">
+      <option name="closed" value="true" />
+      <created>1748218737507</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748218737507</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,9 +224,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Slot Machine" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Learning$bday_massages_main.coverage" NAME="bday_massages_main Coverage Results" MODIFIED="1747935941206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning$For_loop_practice.coverage" NAME="For loop practice Coverage Results" MODIFIED="1747847798191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1747424718500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$For_loop_practice.coverage" NAME="For loop practice Coverage Results" MODIFIED="1747847798191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$bday_massages_main.coverage" NAME="bday_massages_main Coverage Results" MODIFIED="1747935941206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$wiki.coverage" NAME="wiki Coverage Results" MODIFIED="1748216612984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$Rock_Papers_Scissors.coverage" NAME="Rock Papers Scissors Coverage Results" MODIFIED="1747586392763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$bday_messages_py_.coverage" NAME="bday_messages.py. Coverage Results" MODIFIED="1747935212751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -220,7 +235,9 @@
     <SUITE FILE_PATH="coverage/Learning$drive_thru.coverage" NAME="drive_thru Coverage Results" MODIFIED="1747852500958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BMI_Calculator$99_bottles___string_interpolation_range__.coverage" NAME="99 bottles ( string interpolation range ) Coverage Results" MODIFIED="1746734537008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BMI_Calculator$Sorting_Hat.coverage" NAME="Sorting Hat Coverage Results" MODIFIED="1745865332025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$create_gif.coverage" NAME="create_gif Coverage Results" MODIFIED="1748548817894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$slot_machince.coverage" NAME="slot_machince Coverage Results" MODIFIED="1747874808003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning$Raeliana_F.coverage" NAME="Raeliana_F Coverage Results" MODIFIED="1748563763602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GIF" />
     <SUITE FILE_PATH="coverage/BMI_Calculator$Word_Scramble_Game.coverage" NAME="Word Scramble Game Coverage Results" MODIFIED="1747093775789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$pokedex.coverage" NAME="pokedex Coverage Results" MODIFIED="1747871502384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BMI_Calculator$main.coverage" NAME="main Coverage Results" MODIFIED="1745777742774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
